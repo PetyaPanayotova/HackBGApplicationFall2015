@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First_Problem_Points", "HackBGApplicationFall2015\First_Problem_Points.csproj", "{814DC30F-D100-4E93-B708-846360E5100A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second_Problem_Word_Game", "Secon_Problem_Word_Game\Second_Problem_Word_Game.csproj", "{99862FED-3600-40AF-99F0-E0B5FDD1C7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814DC30F-D100-4E93-B708-846360E5100A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814DC30F-D100-4E93-B708-846360E5100A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814DC30F-D100-4E93-B708-846360E5100A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814DC30F-D100-4E93-B708-846360E5100A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99862FED-3600-40AF-99F0-E0B5FDD1C7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99862FED-3600-40AF-99F0-E0B5FDD1C7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99862FED-3600-40AF-99F0-E0B5FDD1C7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99862FED-3600-40AF-99F0-E0B5FDD1C7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

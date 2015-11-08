@@ -1,0 +1,6 @@
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\Secon_Problem_Word_Game\bin\Debug\Secon_Problem_Word_Game.exe.config
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\Secon_Problem_Word_Game\bin\Debug\Secon_Problem_Word_Game.exe
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\Secon_Problem_Word_Game\bin\Debug\Secon_Problem_Word_Game.pdb
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\Secon_Problem_Word_Game\obj\Debug\Secon_Problem_Word_Game.exe
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\Secon_Problem_Word_Game\obj\Debug\Secon_Problem_Word_Game.pdb
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\Secon_Problem_Word_Game\obj\Debug\Second_Problem_Word_Game.csprojResolveAssemblyReference.cache

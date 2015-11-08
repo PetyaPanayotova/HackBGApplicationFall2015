@@ -1,0 +1,6 @@
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\HackBGApplicationFall2015\obj\Debug\First_Problem_Points.csprojResolveAssemblyReference.cache
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\HackBGApplicationFall2015\bin\Debug\HackBGApplicationFall2015.exe.config
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\HackBGApplicationFall2015\bin\Debug\HackBGApplicationFall2015.exe
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\HackBGApplicationFall2015\bin\Debug\HackBGApplicationFall2015.pdb
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\HackBGApplicationFall2015\obj\Debug\HackBGApplicationFall2015.exe
+c:\users\petya\documents\visual studio 2015\Projects\HackBGApplicationFall2015\HackBGApplicationFall2015\obj\Debug\HackBGApplicationFall2015.pdb
